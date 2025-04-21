@@ -1,0 +1,19 @@
+.grammar-container {
+    width: 500px;
+    height: 700px;
+    border: 1px solid steelblue;
+    position: fixed;
+    font-family: 'bree serif';
+    font-size: 25px;
+    color:darkslategray;
+    left: 50px;
+    top: 100px;
+}
+
+.topic {
+    font-family: 'bangers';
+    font-size: 35px;
+    margin: 10px;
+    color: dodgerblue;
+    text-shadow: 1px 1px 1px black;
+}
